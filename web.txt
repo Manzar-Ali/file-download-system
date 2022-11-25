@@ -1,0 +1,36 @@
+Hi, everyone I am looking for a web developer or programmer to work on my project. I am currently working on a University LMS ( Learning management System ) In this the student can easily 
+learn and watch online courses according to there selected courses. Teachers can easily upload assignments and quiz. I also need a payment gateway so student can easily pay there fee online. 
+Need a admin panel as well so the admin can easily manage the teachers staff and students etc. 
+
+ 
+Programming Used :-
+
+
+
+React .js and CSS or you can use ejs as well if you want for front end 
+
+node.js and express for the backend
+
+
+Qualification :- 
+
+
+
+This is a freelance order so If you are a job holder or a freelancer you can easily apply but if you have the experience to do this job. I will hair you if you are the right fit for it other 
+wise don't waste your time if you don't have the require skills.
+
+
+
+You what are you waiting for contact me now!!!
+
+
+Portfolio
+
+https://shiptt.com/
+https://shipit-site.netlify.app/
+
+https://moola-site.netlify.app/
+https://youpi-full-site.netlify.app/
+https://huddle-exp.netlify.app/
+https://www.getitship.com/
+http://boxbeetle.com/
